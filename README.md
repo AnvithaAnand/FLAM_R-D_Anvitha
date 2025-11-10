@@ -20,4 +20,5 @@ y = (42 + t*sin(θ) + e^(M|t|) * sin(0.3t) * cos(θ))
 
 ## 📈 Desmos Submission
 Paste the following equation into [Desmos Parametric Graphing Calculator](https://www.desmos.com/calculator):
+\left(t*\cos(28.118) - e^{0.0214\left|t\right|} \cdot \sin(0.3t)\sin(28.118) + 54.9000\right), \left(42 + t*\sin(28.118) + e^{0.0214\left|t\right|} \cdot \sin(0.3t)\cos(28.118)\right)
 
